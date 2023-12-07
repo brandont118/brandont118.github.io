@@ -9,12 +9,6 @@ My GitHub page is http://github.com/brandont118.
 
 ### CPSC 120
 
-* Lab 7
-
-    Lab 7, part 2 was a favorite because I was always curious about how the
-    game Blackjack works. I was able to write functions for the first time
-    that calculate the correct value of a Blackjack hand no matter how many
-    Aces were dealt.
 * Lab 3
 
     Lab 3, part 1 This a favorite because making a calculator to automatically calculate the price of specific sections evenly is useful. We also began to learn how to input information from the users that would atoumacilly input the numbers into the program outputting the results. We can use these aspects of coding to create other prorgrams that would automatically calculate functions to make stuff easier for us.
